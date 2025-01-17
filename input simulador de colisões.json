@@ -1,0 +1,8 @@
+{
+  "numero_esferas": 10,
+  "largura_janela": 800,
+  "altura_janela": 600,
+  "raio_esfera": 15,
+  "coeficiente_restituicao": 0.9,
+  "velocidade_maxima": 5
+}
